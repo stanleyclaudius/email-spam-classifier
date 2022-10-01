@@ -4,7 +4,7 @@ This project will mainly focused on building model to classify either an email i
 Click [here](https://www.kaggle.com/datasets/mfaisalqureshi/spam-email?select=spam.csv) to get the dataset from Kaggle
 
 ## Application Demo
-
+https://user-images.githubusercontent.com/68453143/193418282-31dbca51-4aab-4f53-a3d6-81551d2e8df1.mp4
 
 ## Technology Used
 1. [Python](https://www.python.org/)
